@@ -1,12 +1,12 @@
 TUTORIAL MENJALANKAN APP ELITE LAUNDRY
 
-REQUIREMENT:
+Kebutuhan:
 1.JavaNetbeans
 2.XAMPP
 3.Sublimetext (php tools)
 4.Chrome(any browsers)
 
-FILE : 
+data : 
 Laundry.java (Project)
 Notepad (database sql file)> laundry.sql
 Php(Laporan & Struk) 
