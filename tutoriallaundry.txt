@@ -1,0 +1,17 @@
+TUTORIAL MENJALANKAN APP ELITE LAUNDRY
+
+REQUIREMENT:
+1.JavaNetbeans
+2.XAMPP
+3.Sublimetext (php tools)
+4.Chrome(any browsers)
+
+FILE : 
+Laundry.java (Project)
+Notepad (database sql file)> laundry.sql
+Php(Laporan & Struk) 
+
+Database :
+1.laundry
+2.laporan_laundry (php>Laporan&Struk)
+
